@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hii, I'm Nishant. New to open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p>Hii, I'm Nishant. New to open source!</p>
 
 <br />
 
