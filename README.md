@@ -63,12 +63,12 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/helloimage2.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Feel free to get in touch with me anytime, whether you have questions, want to chat, or even if you're up for some gaming fun! Don't hesitate to drop me a message, I'm always up for a good conversation or a game together. Just give me a shout! 😊🎮
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:knrt73373@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
