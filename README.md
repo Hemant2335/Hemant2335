@@ -29,7 +29,7 @@
 </br>
 
 # Badges
-<img hight="500" width="800" alt="GIF" align="center" src="https://holopin.me/hemant2335">
+<img hight="500" width="full" alt="GIF" align="center" src="https://holopin.me/hemant2335">
 </br>
 
 # Languages & Tools 👨‍💻 🛠:
