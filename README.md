@@ -69,7 +69,7 @@
 Feel free to get in touch with me anytime, whether you have questions, want to chat, or even if you're up for some gaming fun! Don't hesitate to drop me a message, I'm always up for a good conversation or a game together. Just give me a shout! 😊🎮
 
 <a href="mailto:knrt73373@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
