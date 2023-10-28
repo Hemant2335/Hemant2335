@@ -15,9 +15,6 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### Badges
-<img hight="400" width="500" alt="GIF" align="right" src="https://holopin.me/hemant2335">
-
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Technologies related to Full Stack 
@@ -31,7 +28,8 @@
 </br>
 </br>
 
-
+# Badges
+<img hight="400" width="500" alt="GIF" align="right" src="https://holopin.me/hemant2335">
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
