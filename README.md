@@ -3,7 +3,7 @@ I'm Currently exploring Open Source.
 I am a full stack web developer.
 
 ## Badges:
-https://holopin.me/hemant2335
+[(https://holopin.me/hemant2335)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nishant1_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-kumar-b198b822b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nishant85292675) 
