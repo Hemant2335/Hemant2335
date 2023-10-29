@@ -82,8 +82,8 @@ Feel free to get in touch with me anytime, whether you have questions, want to c
 
 
 <p align="center" >  
-  <a href="https://github.com/Nishant_Kumar/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hemant2335 &&show_icons=true&theme=radical"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Hemant2335&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
