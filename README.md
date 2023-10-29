@@ -38,7 +38,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/MongoDB_ForestGreen.png" alt="mongodb"  width="100" hight="50">
+<img src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/MongoDB_Logomark_ForestGreen.png" alt="mongodb"  width="100" hight="50">
 <img src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/icons8-express-js-100.png" alt="Expressjs" width="100" hight="50">
 <img src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/structure.png" alt="React" width="100" hight="50">
 <img src="https://github.com/Hemant2335/Hemant2335/blob/main/assets/svelte-icon.png" alt="Svelte" width="100" hight="50">
